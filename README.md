@@ -1,4 +1,4 @@
-# Código en python para recorrido BFS
+# Código en python para recorrido DFS
 Este codigo acepta grafos dirigidos introducidos por el usuario
 
 # Teniendo un grafo:
